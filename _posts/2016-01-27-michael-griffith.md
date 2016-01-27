@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-27T20:54:06.164Z'
-dateModified: '2016-01-27T20:54:01.867Z'
+datePublished: '2016-01-27T20:58:29.882Z'
+dateModified: '2016-01-27T20:58:27.179Z'
 title: Michael Griffith
 author: []
 sourcePath: _posts/2016-01-27-michael-griffith.md
@@ -22,9 +22,7 @@ url: michael-griffith/index.html
 _type: Article
 
 ---
-## Michael Griffith
-
-Solution Architect / Senior Team Lead / Skilled Developer 
+## Solution Architect / Senior Team Lead / Skilled Developer 
 
 ## Executive Summary
 
