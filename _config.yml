@@ -1,7 +1,7 @@
 name: Michael Griffith
 favicon: null
 layout_spectrum: 0.29186076973564923
-typography_spectrum: 0.25259606330655515
+typography_spectrum: 1
 title: "Michael Griffith's Corner of the World"
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#000000'
+    - '#767676'
+    - '#4f4f4f'
+    - '#fefefe'
+    - '#a0a0a0'
   brandStrength: 0.7314360740128905
-  lightness: 0.4917917842976749
-  saturation: 0.6967020723968744
+  lightness: 0.625
+  saturation: 0.0625
   rhythmicContrast: 0.9554073209874332
 purpose: []
