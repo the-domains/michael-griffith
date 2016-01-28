@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-28T22:18:18.717Z'
+datePublished: '2016-01-28T22:18:18.731Z'
 dateModified: '2016-01-28T22:18:16.185Z'
 title: Michael Griffith
 author: []
