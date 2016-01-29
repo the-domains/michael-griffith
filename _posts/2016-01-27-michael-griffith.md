@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T16:10:44.661Z'
-dateModified: '2016-01-29T16:10:42.586Z'
+datePublished: '2016-01-29T16:10:50.328Z'
+dateModified: '2016-01-29T16:10:48.177Z'
 title: My Resume/CV
 author: []
 sourcePath: _posts/2016-01-27-michael-griffith.md
