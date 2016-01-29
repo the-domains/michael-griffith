@@ -1,14 +1,14 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-28T22:18:18.731Z'
-dateModified: '2016-01-28T22:18:16.185Z'
-title: Michael Griffith
+datePublished: '2016-01-29T16:10:44.573Z'
+dateModified: '2016-01-29T16:10:42.586Z'
+title: My Resume/CV
 author: []
 sourcePath: _posts/2016-01-27-michael-griffith.md
 published: true
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: michael-griffith/index.html
-_type: Article
+_type: WebPage
 
 ---
 ## Solution Architect / Senior Team Lead / Skilled Developer 
