@@ -1,29 +1,41 @@
-name: Michael Griffith
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.34955
 title: 'They say I''m apathetic, but I just don''t care.'
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.9375
+  brandStrength: 0.625
+  lightness: 0.6875
+  brandColors:
+    - '#131112'
+    - '#B2ACA7'
+    - '#897E75'
+    - '#54463C'
+    - '#6C6259'
+  rhythmicContrast: 0.25
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: 'http://michael-griffith.com'
   facebook: null
-  twitter: null
+name: Michael Griffith
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#0072d1'
-    - '#ff8500'
-    - '#ababab'
-    - '#ffbe78'
-  brandStrength: 0.625
-  lightness: 0.6875
-  saturation: 0.9375
-  rhythmicContrast: 0.25
-purpose: []
+typography_spectrum: 0.34955
+layout_spectrum: 0
